@@ -1,0 +1,6 @@
+- class_name: 友情链接
+  link_list:
+    - name: Ela
+      link: https://e23.dev/
+      avatar: https://e23.dev/Ella_Avatar.png
+      descr: "@ElaBosak233."
