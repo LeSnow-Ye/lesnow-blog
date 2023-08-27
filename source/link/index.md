@@ -8,5 +8,5 @@ type: "link"
 ~~~yml
 name: LeSnow-Ye
 link: https://blog.lesnow.top/
-avatar: https://cdn.jsdelivr.net/gh/LeSnow-Ye/CDN@master/img/Avatar.jpg
+avatar: https://lesnow.top/avatar.jpg
 ~~~

@@ -1,7 +1,7 @@
 ---
 title: 年轻人的第一台 NAS
 date: 2023-08-22 12:56:05
-updated: 2023-08-23 19:27:05
+updated: 2023-08-27 9:49:16
 tags: 
     - 折腾
     - NAS
@@ -51,13 +51,13 @@ G4600，2C4T 3.6GHz 的参数对于 NAS 和一些轻量的服务来说绰绰有�
 |     | 型号           | 价格  | 来源 | 备注         |
 | --- | -------------- | ----- | ---- | ------------ |
 | SSD | 凯侠 RC20 1T   | 318.8 | 京东 | 并不是系统盘 |
-| HDD | ST4000VX000 4T | 380   | 京东 |              |
-| HDD | ST4000VX000 4T | 375   | 京东 |              |
+| HDD | ST4000VX000 4T | 380   | 淘宝 |              |
+| HDD | ST4000VX000 4T | 375   | 淘宝 |              |
 
 ## 系统
 
 我选择的是 TrueNAS Scale，开源免费，有一套基于 Docker 的 App 系统，也很方便跑自己的 Docker。值得一提的是 TrueNAS 采用 ZFS 文件系统。
-![Alt text](/imgs/first-nas/image.png)
+![TrueNAS](/imgs/first-nas/image.png)
 
 TrueNAS（前身 FreeNAS）有开源免费的 Core（基于 FreeBSD）和 Scale（基于 Debian）版，和一个 Enterprise 版本，具体区别参考 [Compare TrueNAS Editions](https://www.truenas.com/compare/)。Core 功能较少，只要一些插件支持，更专注于储存本身，所以一般而言更推荐 Scale 版本。
 
