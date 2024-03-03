@@ -1,0 +1,7 @@
+bottom:
+  - class_name: user-map
+    id_name: user-map
+    name: 后宫裙
+    icon: fab fa-qq
+    order: 999
+    html: '<div style="text-align: center;"><img src="/res/qrcode-qq-group.png" style="width: 90%;border-radius: 10%;"></div>'
