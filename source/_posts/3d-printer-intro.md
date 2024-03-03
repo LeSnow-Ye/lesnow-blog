@@ -47,7 +47,7 @@ categories: 技术
 
 5. 调整打印参数，一般默认即可：
 
-    > 如果不太明白的话，最好问问群友。
+    > 如果不太明白的话，最好问问群友。比如有些情况下是不用加支撑（Support）的。
 
     ![change parameter](../imgs/3d-printer-intro/image-4.png)
 
@@ -69,4 +69,4 @@ categories: 技术
 
 ## 结束了，就这么简单
 
-不懂的问 Google 或者群友。
+不懂的问 Google 或者群友。第一次使用 3D 打印机可以先打印一点简单的东西试一试。
