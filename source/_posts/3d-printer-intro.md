@@ -26,7 +26,7 @@ categories: 技术
 
 比如下面这玩意儿：
 
-![stl model](../imgs/3d-printer-intro/image.png)
+![stl model](/imgs/3d-printer-intro/image.png)
 
 ### 0x01 模型切片
 
@@ -36,12 +36,12 @@ categories: 技术
 
 2. 打开 `UltiMaker Cura` 后，添加打印机 `Z-603S`（A8 也是这个）:
 
-    ![add printer 1](../imgs/3d-printer-intro/image-2.png)
-    ![add printer 2](../imgs/3d-printer-intro/image-3.png)
+    ![add printer 1](/imgs/3d-printer-intro/image-2.png)
+    ![add printer 2](/imgs/3d-printer-intro/image-3.png)
 
 3. 再导入你的模型：
 
-    ![add model](../imgs/3d-printer-intro/image-1.png)
+    ![add model](/imgs/3d-printer-intro/image-1.png)
 
 4. 调整位置和角度。
 
@@ -49,7 +49,7 @@ categories: 技术
 
     > 如果不太明白的话，最好问问群友。比如有些情况下是不用加支撑（Support）的。
 
-    ![change parameter](../imgs/3d-printer-intro/image-4.png)
+    ![change parameter](/imgs/3d-printer-intro/image-4.png)
 
 6. 点右下角 Slice，保存 `.gcode` 文件。
 
@@ -61,9 +61,9 @@ categories: 技术
 
 3. 按下图上传 gcode 文件，选中它，然后可以开始打印。
 
-    ![OctoPrint](../imgs/3d-printer-intro/image-5.png)
+    ![OctoPrint](/imgs/3d-printer-intro/image-5.png)
 
-4. 打印过程经常容易出现各种问题，如 [FDM 3D 打印常见的 7 个问题解决方法](http://www.artillery3d.cn/en/industry-news/20221014-68569)。如果失败了，请分析原因，或询问群友。
+4. 打印过程经常容易出现各种问题，如 [FDM 3D 打印常见的 7 个问题解决方法](http://www.artillery3d.cn/en/industry-news/20221014-68569)。如果失败了，请分析原因，或询问群友。弄坏了也没关系，可以试着修一修。
 
 5. 拿走你打印的物品。清理干净热床。清理干净热床。清理干净热床。
 
