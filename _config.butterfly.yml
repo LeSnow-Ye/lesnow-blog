@@ -492,9 +492,9 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo:
-  repo_id:
-  category_id:
+  repo: LeSnow-Ye/lesnow-blog
+  repo_id: R_kgDOKKCUiw
+  category_id: DIC_kwDOKKCUi84CdrzM
   theme:
     light: light
     dark: dark
