@@ -55,7 +55,7 @@ WoW. 将近 100 条记录！看来大家的网络安全知识确实还欠佳啊�
 如果网站是开源的，可以检查代码，然后部署你自己的实例，这样也相对安全。
 
 更具体的科普视频 bilibili 就有很多，
-比如 [【白】竟然有这么多人不知道cookie是什么？雷普了！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FsSoYdEUG/)
+比如 [Cookie、Session、Token究竟区别在哪？如何进行身份认证，保持用户登录状态？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ob4y1Y7Ep/)
 
 太忙了不多写了，就让 GPT 继续回答一下吧。
 
