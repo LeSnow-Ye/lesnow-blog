@@ -1,7 +1,7 @@
 ---
 title: itoc | Terrain Generation
 date: 2025-4-1 20:36:00
-updated: 2025-4-3 14:06:00
+updated: 2025-4-3 17:06:00
 tags:
   - itoc
   - Game dev
@@ -19,11 +19,18 @@ categories: 技术
 - [Making maps with noise functions](https://www.redblobgames.com/maps/terrain-from-noise/)
 - [Noise Functions and Map Generation](https://www.redblobgames.com/articles/noise/introduction.html)
 - [Friday Facts #390 - Noise expressions 2.0 | Factorio](https://factorio.com/blog/post/fff-390)
+- [Fantasy Maps for fun and glory – javascript, mapmaking, procedural generation](https://azgaar.wordpress.com/)
 - [making realistic terrain : r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/comments/zgnckn/making_realistic_terrain/)
 - [Game terrain generation is pretty simple, actually - YouTube](https://www.youtube.com/watch?v=QF2Nj1zME40)
 - [Better Mountain Generators That Aren't Perlin Noise or Erosion - YouTube](https://www.youtube.com/watch?v=gsJHzBTPG0Y)
 - [This terrain generator is better than yours (Daydream pt. 8) - YouTube](https://www.youtube.com/watch?v=2mpklUE7BfA&t=783s)
 - [Procedural Terrain Generation - YouTube](https://www.youtube.com/playlist?list=PL5Y_Uzua36lsu2stYJtKZhPUbUurvPWlC)
+
+### Tectonic Plates
+
+- [Experilous: Procedural Planet Generation](https://web.archive.org/web/20220617041817/http://experilous.com/1/blog/post/procedural-planet-generation)
+- [Evelios Development: procedural](https://eveliosdev.blogspot.com/search/label/procedural)
+- [Procedural World: Continent](https://procworld.blogspot.com/search/label/Continent)
 
 ### Minecraft
 
