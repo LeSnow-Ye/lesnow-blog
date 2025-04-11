@@ -10,7 +10,7 @@ keywords:
   - itoc
   - Terrain generation
   - Procedure terrain generation
-categories: 技术
+categories: itoc
 ---
 
 ## References

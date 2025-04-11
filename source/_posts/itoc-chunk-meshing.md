@@ -1,13 +1,13 @@
 ---
 title: itoc | Chunk Meshing
 date: 2025-4-1 20:32:00
-tags: 
-    - itoc
-    - Game dev
-keywords: 
-    - itoc
-    - Chunk
-categories: 技术
+tags:
+  - itoc
+  - Game dev
+keywords:
+  - itoc
+  - Chunk
+categories: itoc
 ---
 
 ## Chunk Meshing
